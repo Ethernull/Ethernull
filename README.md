@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethernull
 - 👀 I’m interested in Web and C++ 
-- 🌱 I’m currently learning React, Springboot and sharpening my Angular knowledge
+- 🌱 I’m currently learning React, Vue and sharpening my Angular knowledge
 - 💞️ I’m looking to collaborate on anything
 <!--- 📫 How to reach me ... --->
 
